@@ -1,3 +1,3 @@
-module github.com/go-stack/stack
+module github.com/meterup/stack
 
 go 1.17
